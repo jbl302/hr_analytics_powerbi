@@ -1,5 +1,7 @@
 # Attrition Analytics Dashboard 📊
 
+![Dashboard Preview](Screenshot%202025-04-07%20002458.png)
+
 **Author:** Jai Bhagat  
 **Toolstack:** Power BI, DAX, MS Excel
 
